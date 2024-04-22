@@ -1,3 +1,5 @@
+# THIS PROJECT IS AN ADDITIONAL PROJECT TO https://github.com/jasonacox/tinytuya
+
 I wanted to control my bulb (ANTELA-9W-RGB+CCT)
 I prepared a STREAMDECK profile and scripts for each color, brightness and ON - OFF
 I share the files with you
